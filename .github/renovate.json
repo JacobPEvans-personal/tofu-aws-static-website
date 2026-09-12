@@ -6,7 +6,7 @@
     ":semanticCommits",
     ":separateMajorReleases",
     "group:allNonMajor",
-    "local>JacobPEvans/.github:renovate-presets"
+    "local>dryvist/.github"
   ],
   "labels": ["dependencies"],
   "assignees": ["@JacobPEvans"],
